@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cn8m8fea8ehow"
+path="res://.godot/imported/JDSherbert - Ambiences Music Pack - Desert Sirocco.mp3-5d3410f32276a15d4b18c4b3eb0d3e56.mp3str"
+
+[deps]
+
+source_file="res://assets/background music/mp3/JDSherbert - Ambiences Music Pack - Desert Sirocco.mp3"
+dest_files=["res://.godot/imported/JDSherbert - Ambiences Music Pack - Desert Sirocco.mp3-5d3410f32276a15d4b18c4b3eb0d3e56.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

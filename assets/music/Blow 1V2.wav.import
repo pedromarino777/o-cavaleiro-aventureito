@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dyero87l5gmfn"
+path="res://.godot/imported/Blow 1V2.wav-8556dbd547ab75f263b49946617960ff.sample"
+
+[deps]
+
+source_file="res://assets/music/Blow 1V2.wav"
+dest_files=["res://.godot/imported/Blow 1V2.wav-8556dbd547ab75f263b49946617960ff.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

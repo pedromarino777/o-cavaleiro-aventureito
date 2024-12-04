@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bxlkq25abxuwh"
+path="res://.godot/imported/JDSherbert - Ambiences Music Pack - Cosmic Star.mp3-4f5716ccfb44cee1de3e4cc3a0a26b75.mp3str"
+
+[deps]
+
+source_file="res://assets/background music/mp3/JDSherbert - Ambiences Music Pack - Cosmic Star.mp3"
+dest_files=["res://.godot/imported/JDSherbert - Ambiences Music Pack - Cosmic Star.mp3-4f5716ccfb44cee1de3e4cc3a0a26b75.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

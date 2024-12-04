@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cj045clmxny3i"
+path="res://.godot/imported/JDSherbert - Ambiences Music Pack - Underwater City.mp3-9febfb60ed72a2c06e63b360f79dcc06.mp3str"
+
+[deps]
+
+source_file="res://assets/background music/mp3/JDSherbert - Ambiences Music Pack - Underwater City.mp3"
+dest_files=["res://.godot/imported/JDSherbert - Ambiences Music Pack - Underwater City.mp3-9febfb60ed72a2c06e63b360f79dcc06.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

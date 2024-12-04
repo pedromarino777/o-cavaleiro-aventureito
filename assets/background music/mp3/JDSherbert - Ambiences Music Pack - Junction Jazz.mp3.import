@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dftuh4mkjg38w"
+path="res://.godot/imported/JDSherbert - Ambiences Music Pack - Junction Jazz.mp3-477916a19f25c54443bee0c2640d3651.mp3str"
+
+[deps]
+
+source_file="res://assets/background music/mp3/JDSherbert - Ambiences Music Pack - Junction Jazz.mp3"
+dest_files=["res://.godot/imported/JDSherbert - Ambiences Music Pack - Junction Jazz.mp3-477916a19f25c54443bee0c2640d3651.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

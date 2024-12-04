@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://xykoaq3fghhi"]
+
+[ext_resource type="Texture2D" uid="uid://oxg3jbkeml4w" path="res://assets/Button/Menu Buttons sprite (BnW).png" id="1_hkik4"]
+
+[node name="Botao" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(0, 1.90735e-06)
+scale = Vector2(0.500934, 0.412534)
+texture = ExtResource("1_hkik4")
+region_enabled = true
+region_rect = Rect2(616, 634, 586, 184)

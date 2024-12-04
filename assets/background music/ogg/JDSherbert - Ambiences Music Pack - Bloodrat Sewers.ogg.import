@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dxfnbklyt3wh"
+path="res://.godot/imported/JDSherbert - Ambiences Music Pack - Bloodrat Sewers.ogg-d92e9737defd2e6d8c63839c28b6c61f.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/background music/ogg/JDSherbert - Ambiences Music Pack - Bloodrat Sewers.ogg"
+dest_files=["res://.godot/imported/JDSherbert - Ambiences Music Pack - Bloodrat Sewers.ogg-d92e9737defd2e6d8c63839c28b6c61f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

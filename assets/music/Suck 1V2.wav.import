@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cg060lu3ntwja"
+path="res://.godot/imported/Suck 1V2.wav-dc6e2e54b7875630329b69b4ff579e1d.sample"
+
+[deps]
+
+source_file="res://assets/music/Suck 1V2.wav"
+dest_files=["res://.godot/imported/Suck 1V2.wav-dc6e2e54b7875630329b69b4ff579e1d.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

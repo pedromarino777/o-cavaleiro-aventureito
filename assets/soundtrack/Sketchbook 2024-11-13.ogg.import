@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cg7y4sd2x4mbc"
+path="res://.godot/imported/Sketchbook 2024-11-13.ogg-23673c5ca9c1d8c8c60c2cd3a08c622f.oggvorbisstr"
+
+[deps]
+
+source_file="res://assets/soundtrack/Sketchbook 2024-11-13.ogg"
+dest_files=["res://.godot/imported/Sketchbook 2024-11-13.ogg-23673c5ca9c1d8c8c60c2cd3a08c622f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
